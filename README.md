@@ -4,10 +4,11 @@ Projeto realizado pela @rocketseat, com intuito de colocar os devs um nível aci
 
 ![Capa](https://user-images.githubusercontent.com/49095200/85212492-c21e0600-b329-11ea-9a89-58f411f4a841.png)
 
-## Features
+## Tecnologias
 * [React Native](https://reactnative.dev/)
 * Axios
 * [Expo](https://expo.io/)
+* Typescript
 
 
 ## Como rodar?
